@@ -37,7 +37,7 @@
 ---
 
 ## 🛰️ Cool DevOps Vibes
-![DevOps Infinity Loop](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/devops.gif)  
+![DevOps Infinity Loop](https://i.gifer.com/7VE.gif)
 
 ---
 
