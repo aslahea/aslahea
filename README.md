@@ -1,39 +1,46 @@
-# Hi there 👋 I'm Aslah
+# ⚡ Hey, I'm Aslah  
 
-🌱 I’m currently learning **DevOps, Django & Cloud**  
-💡 Fun fact: I love mixing creativity + coding  
+🚀 DevOps Enthusiast | 🐍 Python & Django Learner | ☁️ Cloud Explorer  
+
+💡 “Automate Everything. Break → Fix → Scale → Repeat.”  
 
 ---
 
-## ⚡️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)
+## 🔧 DevOps Arsenal
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
 ---
 
-## 🎬 Animated Intro
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+My+GitHub+Profile;DevOps+%7C+Django+%7C+Python+Learner)
+## 🔥 Dynamic Intro
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=🚀+Building+DevOps+Pipelines;🐳+Containerizing+Apps+with+Docker;☸️+Scaling+with+Kubernetes;⚡+Automating+with+CI%2FCD;☁️+Exploring+Cloud+Infra)
 
 ---
 
 ## 📊 GitHub Stats
-![Aslah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslahea&show_icons=true&theme=radical)
+![Aslah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslahea&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aslahea&layout=compact&theme=radical)
-
----
-
-## 📈 Activity Graph
-[![Aslah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aslahea&theme=react-dark)](https://github.com/aslahea)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aslahea&layout=compact&theme=tokyonight)
 
 ---
 
-## 🚀 Cool Animation
-![Cool Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+## 📈 DevOps Activity Graph
+[![Aslah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aslahea&theme=tokyo-night)](https://github.com/aslahea)
 
 ---
 
-✨ _Profile last updated automatically with fun widgets!_
+## 🛰️ Cool DevOps Vibes
+![DevOps Infinity Loop](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/devops.gif)  
+
+---
+
+## ⚡ Fun Quote
+> _“First, solve the problem. Then, automate the solution.”_  
+
+---
