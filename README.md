@@ -50,7 +50,7 @@
 
 ## 🐻 Bear Smasher
 <div align="center">
-  <img src="https://github.com/aslahea/aslahea/blob/output/bear.svg" alt="Bear smashing bricks animation"/>
+  <img src="https://raw.githubusercontent.com/aslahea/aslahea/output/bear.svg" alt="Bear smashing bricks animation"/>
 </div>
 
 ---
