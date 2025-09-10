@@ -1,0 +1,26 @@
+name: 🐻 Bear Smasher Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:       # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Bear Animation
+        run: |
+          mkdir -p output
+          curl -L -o output/bear.svg https://raw.githubusercontent.com/aslah-special-assets/bear-smasher/main/bear.svg
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "🐻 update bear smasher animation"
+          add: "output/bear.svg"
