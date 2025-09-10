@@ -48,17 +48,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐻 Bear Smasher (Special Animation)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AslahEA/AslahEA/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
-
----
-
-## 🧑‍💻 Hacker Matrix
-<div align="center">
-  <img src="https://github.com/AslahEA/AslahEA/blob/output/matrix.svg" alt="Matrix animation"/>
+  <img src="https://github.com/AslahEA/AslahEA/blob/output/bear.svg" alt="Bear smashing bricks animation"/>
 </div>
 
 ---
