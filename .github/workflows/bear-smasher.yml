@@ -15,7 +15,8 @@ jobs:
       - name: Generate Bear Animation
         run: |
           mkdir -p output
-          curl -L -o output/bear.svg https://raw.githubusercontent.com/aslah-special-assets/bear-smasher/main/bear.svg
+          curl -L -o output/bear.svg https://raw.githubusercontent.com/Anish-01/github-profile-bear-animation/main/bear.svg
+
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
