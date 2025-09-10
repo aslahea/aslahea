@@ -16,7 +16,5 @@ I'm learning **DevOps & Django** and building cool projects.
 ## 🚀 Coding in Action
 ![Cool Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-## 📈 Activity Graph
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aslahea&theme=react-dark)](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME
-)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aslahea&theme=react-dark)](https://github.com/aslahea)
 
