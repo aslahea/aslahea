@@ -12,3 +12,10 @@ I'm learning **DevOps & Django** and building cool projects.
 
 ## ✨ Fun Animation
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+My+Profile)
+
+## ✨ Fun Animation
+![Cool Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aslahea&theme=react-dark)
+
