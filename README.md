@@ -48,9 +48,9 @@
 
 ---
 
-## 🐻 Bear Smasher (Special Animation)
+## 🐻 Bear Smasher
 <div align="center">
-  <img src="https://github.com/AslahEA/AslahEA/blob/output/bear.svg" alt="Bear smashing bricks animation"/>
+  <img src="https://github.com/aslahea/aslahea/blob/output/bear.svg" alt="Bear smashing bricks animation"/>
 </div>
 
 ---
