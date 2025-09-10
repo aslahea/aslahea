@@ -1,6 +1,4 @@
 # Hi there 👋 I'm Aslah
-![Aslah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslahEA&show_icons=true&theme=radical)
-
 
 I'm learning **DevOps & Django** and building cool projects.
 
