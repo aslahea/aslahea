@@ -56,6 +56,13 @@
 
 ---
 
+## 🧑‍💻 Hacker Matrix
+<div align="center">
+  <img src="https://github.com/AslahEA/AslahEA/blob/output/matrix.svg" alt="Matrix animation"/>
+</div>
+
+---
+
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/aslah-ea" target="_blank">
