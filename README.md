@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Aslah
 
-<!--
-**aslahea/AslahEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning **DevOps & Django** and building cool projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Django](https://img.shields.io/badge/Django-4.2-green)
+![Git](https://img.shields.io/badge/Git-F05032-red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Aslah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslahEA&show_icons=true&theme=radical)
+
+## ✨ Fun Animation
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+My+Profile)
