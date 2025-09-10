@@ -31,7 +31,8 @@
 ---
 
 ## 📈 DevOps Activity Graph
-[![Aslah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aslahea&theme=tokyo-night)](https://github.com/aslahea)
+[![Aslah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aslahea&theme=tokyo-night)](https://github.com/aslahea)
+
 
 ---
 
