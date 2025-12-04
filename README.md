@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=1abc9c&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+AslahEA;DevOps+Engineer+in+Progress;Future+MLOps+Expert🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=1abc9c&center=true&vCenter=true&width=650&lines=Hi+There!+👋;I'm+Aslah+EA;DevOps+Engineer+in+Progress;Future+MLOps+Expert+🚀;Learning+Daily+to+Level+Up!"/>
 </h1>
 
 ---
@@ -9,10 +9,12 @@
   <b>About Me</b>  
 </div>
 
-- 🛠️ Passionate about **DevOps, Cloud & Automation**  
-- 📚 Currently learning **Django + Linux + SQL**  
-- 🚀 Target: **18 LPA & MLOps-ready by 2027**  
-- ⚡ Fun fact: I break servers… and then fix them better 😎  
+- 🛠️ Passionate about **DevOps, Cloud, CI/CD & Automation**  
+- 📚 Currently learning **Linux • SQL • Django • Kubernetes • Istio**  
+- 🎯 Goal: **Become a strong DevOps Engineer (18 LPA target)**  
+- 🚀 Long-Term: **MLOps-ready by 2027**  
+- 💡 Building discipline, improving English & problem-solving  
+- ⚡ Fun fact: *I break servers… and fix them better 😎*  
 
 ---
 
@@ -28,7 +30,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack (Current Focus)
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
@@ -36,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -48,7 +51,7 @@
 
 ---
 
-## 🐻 Bear Smasher
+## 🐻 Bear Smasher (Just Like My Problem-Solving 😄)
 <div align="center">
   <img src="https://raw.githubusercontent.com/aslahea/aslahea/output/bear.svg" alt="Bear smashing bricks animation"/>
 </div>
