@@ -105,15 +105,13 @@ Welcome to my GitHub! I am an ambitious, platform-focused **DevOps & Cloud Engin
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslahea&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&count_private=true" alt="Aslah's GitHub Stats" height="160px" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord" alt="Top Languages" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aslahea&show_icons=true&theme=nord&count_private=true" alt="Aslah's GitHub Stats" height="160px" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=aslahea&layout=compact&theme=nord" alt="Top Languages" height="160px" />
 </p>
-
----
 
 ## 🌱 Engineering Focus & Core Philosophies
 
