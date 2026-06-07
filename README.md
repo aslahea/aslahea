@@ -1,69 +1,86 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=1abc9c&center=true&vCenter=true&width=650&lines=Hi+There!+👋;I'm+Aslah+EA;DevOps+Engineer+in+Progress;Future+MLOps+Expert+🚀;Learning+Daily+to+Level+Up!"/>
-</h1>
+```markdown
+# Hi there 👋 I'm Aslah EA
+
+## 🚀 DevOps Engineer | Cloud & Platform Enthusiast
+
+### 📈 Current Progress
+- 🎯 DevOps Program: Week 45 / 52
+- 🏆 Brototype Overall Best Performer of the Month
+- ☁️ AWS & Azure Cloud Engineer
+- 🏗️ Infrastructure as Code Enthusiast
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="40"/>  
-  <b>About Me</b>  
-</div>
+## 🛠️ Tech Stack
 
-- 🛠️ Passionate about **DevOps, Cloud, CI/CD & Automation**  
-- 📚 Currently learning **Linux • SQL • Django • Kubernetes • Istio**  
-- 🎯 Goal: **Become a strong DevOps Engineer (18 LPA target)**  
-- 🚀 Long-Term: **MLOps-ready by 2027**  
-- 💡 Building discipline, improving English & problem-solving  
-- ⚡ Fun fact: *I break servers… and fix them better 😎*  
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform)
+
+### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5)
+
+### GitOps & Deployment
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D)
+![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-FF6B35)
+![Istio](https://img.shields.io/badge/Istio-466BB0)
+
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana)
+![Kiali](https://img.shields.io/badge/Kiali-3F9C35)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3)
+
+### Logging
+![ELK](https://img.shields.io/badge/ELK-005571)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571)
+![Kibana](https://img.shields.io/badge/Kibana-005571)
+![Logstash](https://img.shields.io/badge/Logstash-005571)
+
+### Automation
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible)
+
+### Messaging
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka)
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ---
 
-## 🔥 DevOps Vibes
-<div align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="500"/>
-</div>
+## 🔥 Key Areas
+
+- Terraform Enterprise Architecture
+- AWS & Azure Cloud
+- Kubernetes Platform Engineering
+- GitOps (ArgoCD)
+- Service Mesh (Istio)
+- Observability (Prometheus, Grafana, Kiali, Jaeger)
+- CI/CD Automation
+- Infrastructure Automation
 
 ---
 
-## 📈 Contribution Activity
-[![Aslah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aslahea&theme=react-dark)](https://github.com/aslahea)
+### 🎯 2026 Goals
 
----
-
-## ⚡ Tech Stack (Current Focus)
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50"/>
-</p>
-
----
-
-## 🏆 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslahea&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aslahea&show_icons=true&theme=tokyonight" height="170"/>
-</div>
-
----
-
-## 🐻 Bear Smasher (Just Like My Problem-Solving 😄)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aslahea/aslahea/output/bear.svg" alt="Bear smashing bricks animation"/>
-</div>
-
----
-
-## 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/aslah-ea" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aslaheadev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-</p>
+- Complete DevOps Program
+- Master Terraform & Kubernetes
+- Become Cloud Platform Engineer
+- Start MLOps Journey
+```
