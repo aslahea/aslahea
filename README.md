@@ -109,8 +109,8 @@ Welcome to my GitHub! I am an ambitious, platform-focused **DevOps & Cloud Engin
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslahea&show_icons=true&theme=nord&count_private=true" alt="Aslah's GitHub Stats" height="160px" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=aslahea&layout=compact&theme=nord" alt="Top Languages" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aslahea&show_icons=true&theme=tokyonight&count_private=true" alt="Aslah's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslahea&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
 </p>
 
 ## 🌱 Engineering Focus & Core Philosophies
