@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aslahea&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aslahea?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
 </p>
 
 Welcome to my GitHub! I am an ambitious, platform-focused **DevOps & Cloud Engineer** navigating an intensive engineering track. I specialize in building zero-downtime container orchestration platforms, robust infrastructure-as-code deployments, and dynamic cloud native service meshes. I thrive on automating complex architectures, scaling delivery pipelines, and keeping distributed environments resilient, observable, and highly secure.
@@ -46,6 +46,77 @@ Welcome to my GitHub! I am an ambitious, platform-focused **DevOps & Cloud Engin
 </div>
 
 ---
+
+## 📐 Production Architecture Blueprint
+
+This dashboard highlights the enterprise-grade design principles and structural patterns I implement across cloud native environments.
+
+```mermaid
+graph TD
+    %% Base Styles
+    classDef cluster fill:#0D1117,stroke:#30363D,stroke-width:2px,color:#8B949E;
+    classDef edgeLabel background-color:#0D1117,color:#58A6FF;
+    
+    %% Infrastructure Layer
+    subgraph Infrastructure_Layer ["☁️ Cloud & Infrastructure (Terraform Automated)"]
+        VPC[Secure VPC / Private DNS]
+        PE[Azure Private Link / Private Endpoints]
+        IGW[NAT & Internet Gateways]
+    end
+
+    %% Routing Layer
+    subgraph Routing_Layer ["🌐 Traffic Management & Service Mesh (Istio)"]
+        GW[Istio Ingress Gateway]
+        VS[VirtualService / DestinationRule]
+        CB[Circuit Breaker / mTLS / JWT]
+    end
+
+    %% Compute Layer
+    subgraph Compute_Layer ["☸️ Container Orchestration (AWS EKS Hub)"]
+        AR[Argo Rollouts]
+        Canary[Canary / Blue-Green Delivery]
+        Pods[Multi-stage App Pods]
+    end
+
+    %% Data & Messaging Layer
+    subgraph Data_Layer ["📨 Messaging & Persistence"]
+        Kafka[Apache Kafka Cluster]
+        DB[(PostgreSQL / DynamoDB RDS)]
+    end
+
+    %% Telemetry Layer
+    subgraph Telemetry_Layer ["📊 Centralized Observability & Logging"]
+        Prom[Prometheus / PromQL Engine]
+        Graf[Grafana / Kiali Service Graph]
+        ELK[ELK Stack Log Parsers]
+    end
+
+    %% Traffic Flow Connectors
+    IGW --> GW
+    GW --> VS
+    VS --> CB
+    CB --> VPC
+    VPC --> PE
+    PE --> AR
+    AR --> Canary
+    Canary --> Pods
+    Pods --> Kafka
+    Pods --> DB
+    
+    %% Monitoring Telemetry Links
+    Pods -.-> Prom
+    Prom -.-> Graf
+    Pods -.-> ELK
+    ELK -.-> Graf
+
+    %% Theme Assignments
+    style Infrastructure_Layer fill:#0D1117,stroke:#1F6FEB,stroke-width:1px
+    style Routing_Layer fill:#0D1117,stroke:#238636,stroke-width:1px
+    style Compute_Layer fill:#0D1117,stroke:#8957E5,stroke-width:1px
+    style Data_Layer fill:#0D1117,stroke:#D29922,stroke-width:1px
+    style Telemetry_Layer fill:#0D1117,stroke:#F85149,stroke-width:1px
+
+
 
 ## 🛠️ Tech Stack & Ecosystem
 
